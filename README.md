@@ -1,0 +1,2 @@
+# MyDjangoApp
+First Trial
